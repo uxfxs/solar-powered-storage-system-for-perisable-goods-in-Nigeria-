@@ -104,7 +104,7 @@ Solar provides:
 
 ## 👤 Author
 
-Your Name  
+Umar Farouk Sanusi
 Nigeria  
 Year: 2026  
 
